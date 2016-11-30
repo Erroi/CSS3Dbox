@@ -3,4 +3,4 @@
 3. transform-style: preserve-3d;默认为flat;如果要在元素上实现3D效果，就要在*父元素*上加transform-style:preserve-3d;
 4. animation-fill-mode:forwards; 让子元素保持动画最后的效果，否则会恢复原样。
 5. 一个物体做两次动画，则在外面再包裹一层div
-6.
+6.知识点参考http://isux.tencent.com/css3/index.html?animation-name
